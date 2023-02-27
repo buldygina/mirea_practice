@@ -12,13 +12,13 @@ public:
 
     triangle(double a, double b, double c);
 
-    bool isTriangle() const;
+    bool exist_tr() const;
 
     double *show() const;
 
-    double getPerimetr() const;
+    double Perimetr() const;
 
-    double getSquare() const;
+    double Square() const;
 
 };
 

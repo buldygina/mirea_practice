@@ -16,3 +16,8 @@ add_executable(mirea_practice_1_2
         1/2/circle.cpp
         1/2/circle.h
         )
+add_executable(mirea_practice_1_3
+        1/3/figure.cpp
+        1/3/figure.h
+        1/3/main.cpp
+        )
