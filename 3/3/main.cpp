@@ -7,7 +7,7 @@ int main() {
     int n;
     cout << "Enter the number of fractions: ";
     cin >> n;
-    rational *arr = new rational[n];
+    rational *arr = new rational[n]();
 
     for (int i = 0; i < n; i++) {
         int a, b;
@@ -23,7 +23,7 @@ int main() {
     }
 
     cout << endl << "Addition: ";
-    rational sum;
+    rational sum();
     for (int i = 0; i < n; i++) {
         sum = sum + arr[i];
     }

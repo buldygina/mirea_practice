@@ -9,7 +9,7 @@ private:
 
 public:
 
-    rational(int a1, int b1);
+    rational(int a1 = 0, int b1 = 1);
 
     void set(int a1, int b1);
 
