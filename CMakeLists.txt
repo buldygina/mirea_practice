@@ -8,7 +8,7 @@ add_executable(mirea_practice_2_1
         2/1/main.cpp
         2/1/triangle.cpp
         2/1/triangle.h
-        )
+        6/1/main.cpp)
 add_executable(mirea_practice_2_2
         2/2/main.cpp
         2/2/circle.cpp
@@ -34,3 +34,17 @@ add_executable(mirea_practice_3_3
         3/3/rational.h
         3/3/main.cpp
         )
+add_executable(mirea_practice_6_1
+        6/1/main.cpp)
+add_executable(mirea_practice_6_2
+        6/2/cone.cpp
+        6/2/cone.h
+        6/2/main.cpp)
+add_executable(mirea_practice_6_3
+        6/3/bay.cpp
+        6/3/bay.h
+        6/3/main.cpp
+        6/3/ocean.cpp
+        6/3/ocean.h
+        6/3/sea.cpp
+        6/3/sea.h)
