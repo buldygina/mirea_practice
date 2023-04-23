@@ -48,3 +48,15 @@ add_executable(mirea_practice_6_3
         6/3/ocean.h
         6/3/sea.cpp
         6/3/sea.h)
+add_executable(mirea_practice_7
+        7/main.cpp
+        7/type1.h
+        7/type1.cpp
+        7/type2.h
+        7/type2.cpp)
+add_executable(mirea_practice_8
+        8/main.cpp
+        8/type3.h
+        8/type3.cpp
+        8/type4.h
+        8/type4.cpp)
