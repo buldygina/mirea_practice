@@ -60,3 +60,28 @@ add_executable(mirea_practice_8
         8/type3.cpp
         8/type4.h
         8/type4.cpp)
+add_executable(mirea_practice_9_1
+        9/1/main.cpp)
+add_executable(mirea_practice_9_2
+        9/2/main.cpp)
+add_executable(mirea_practice_9_3
+        9/3/main.cpp
+        9/3/set.h
+        9/3/set.cpp)
+add_executable(mirea_practice_10
+        10/main.cpp)
+add_executable(mirea_practice_11
+        11/main.cpp)
+add_executable(mirea_practice_12
+        12/main.cpp)
+add_executable(mirea_practice_13
+        13/main.cpp)
+add_executable(mirea_practice_14_1
+        14/1/main.cpp)
+add_executable(mirea_practice_14_2
+        14/2/main.cpp
+        14/2/Array.h)
+add_executable(mirea_practice_14_3
+        14/3/main.cpp
+        14/3/Set.h)
+
